@@ -1,13 +1,16 @@
-<h1>Hi, I'm Joshua 👋🏽<br/>
+# Hello, I'm Joshua👋🏽
+I'm a recent graduate with a strong passion for technology and a commitment to improving.
 
-<h2>📊 Data Analyst Projects:</h2>
+## 📊 Data Analyst Projects:
+
+- [Name](Link)
+- [Name](Link)
+
+## 💻 IT Projects:
 
 - [Name](Link)
 
-<h2>💻 IT Projects:</h2>
+## 📄 Certifications:
+<a href="https://Google.com" target="_blank"><img src="https://images.credly.com/images/f53c1eb6-d93d-4b9e-ae34-922046f6b15c/twitter_thumb_201604_image.png" alt="Security+ Certification Badge" style="height: auto; width: 100px;" />
+</a>
 
-- [Name](Link)
-
- <h2>📄 Certifications:</h2>
- 
-- [Name](Link)
