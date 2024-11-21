@@ -1,5 +1,6 @@
 # Hello, I'm Joshua👋🏽
-I'm a recent graduate with a strong passion for technology and a commitment to improving.
+I'm a recent graduate, seeking my first shot to contribute and grow in tech.
+
 
 ## 📊 Data Analyst Projects:
 
@@ -8,6 +9,7 @@ I'm a recent graduate with a strong passion for technology and a commitment to i
 
 ## 💻 IT Projects:
 
+- [Implementing Active Directory with VMware](Link)
 - [Name](Link)
 
 ## 📄 Certifications:
