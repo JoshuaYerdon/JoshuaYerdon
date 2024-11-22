@@ -8,5 +8,5 @@ I'm a recent graduate, seeking my first shot to contribute and grow in tech.
 - [Exploring Azure and Networking Concepts](Link)
 
 ## 📄 Certifications:
-- [Name](Link)
+- [Google Data Analytics Professional Certificate](Link)
 
