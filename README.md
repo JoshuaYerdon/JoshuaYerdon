@@ -8,7 +8,7 @@ I'm a recent graduate, seeking my first shot to contribute and grow in tech.
 - [Exploring Microsoft Entra ID (Azure Active Directory)](https://github.com/JoshuaYerdon/3/blob/main/README.md)
 
 ## Data Analytics Projects:
-- [Case Study](R Link)
+- [Case Study](RLink)
 
 ## 📄 Certifications:
 - [Google Data Analytics Professional Certificate (soon)](Link)
