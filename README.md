@@ -2,4 +2,4 @@
 I'm a recent graduate, seeking my first shot to contribute and grow in tech.
 
 ## 📊 Data Analytics Projects:
-- [Data Analyst Case Study]([https://github.com/JoshuaYerdon/DA-Case-Study)
+- [Data Analyst Case Study](https://github.com/JoshuaYerdon/DA-Case-Study)
