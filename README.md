@@ -2,4 +2,4 @@
 I'm a recent graduate, seeking my first shot to contribute and grow in tech.
 
 ## 📊 Data Analytics Projects:
-- [Case Study](RLink)
+- [Data Analyst Case Study](SQL-Project_Data_Analysis)
