@@ -7,4 +7,4 @@ I'm a recent graduate, seeking my first shot to contribute and grow in tech.
 - Excel Project (Soon)
 
 ## 📜 Certifications
-- Google Data Analytics Professional Certificate
+- Google Data Analytics Professional 
