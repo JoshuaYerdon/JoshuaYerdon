@@ -1,5 +1,7 @@
 # Hey There🙋🏻‍♂️
-Welcome to my Github, check out my projects below!
+### I'm Josh! Welcome to my GitHub. Check out my projects below!👇
 
 
-[Active Directory Lab Environment](https://www.youtube.com/watch?v=T43pQZ4QUWs&feature=youtu.be)
+**1: [Active Directory Lab Environment](https://www.youtube.com/watch?v=T43pQZ4QUWs&feature=youtu.be)**
+<br>
+**2: [Ticketing System Lab](link)**
